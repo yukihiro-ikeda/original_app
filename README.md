@@ -14,6 +14,9 @@ Devise
 ----------
 外部ストレージ(cloudinary)を使用した音声ファイル投稿
 
+実行手順
+----------
+
 ```
 $ git clone git@github.com:yukihiro-ikeda/original_app.git
 $ cd original_app
