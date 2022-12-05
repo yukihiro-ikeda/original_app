@@ -32,12 +32,13 @@ https://docs.google.com/spreadsheets/d/14wfD7Yvca9CuDNZB5ovGCy4H8B3I1omCoQhd1jIZ
 
 ワイヤーフレーム
 -----------
-!(/images/ワイヤーフレーム.png) 
+ <img width="1440" alt="ワイヤーフレーム" src="https://user-images.githubusercontent.com/112834004/205644019-c0e7b155-2014-428a-898d-4b33fe0a63e6.png">
+
 
 ER図
 -----------
-!(/Users/yukihiroikeda/workspace/original_app1/app/assets/images/original_app_ER-ER図.drawio.png) 
+![original_app_ER-ER図 drawio](https://user-images.githubusercontent.com/112834004/205644266-09f644ef-3429-409d-adfa-827cbf2ba82e.png)
 
 画面遷移図
 -----------
-!(/images/original_app_ER-画面遷移図.drawio.png) 
+![original_app_ER-画面遷移図 drawio](https://user-images.githubusercontent.com/112834004/205644293-bd84d2d0-4d0f-4f1a-add4-7c8452256095.png)
