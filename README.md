@@ -19,7 +19,7 @@ Devise
 
 ```
 $ git clone git@github.com:yukihiro-ikeda/original_app.git
-$ cd original_app1
+$ cd sample1
 $ bundle
 $ rails db:create && rails db:migrate
 $ rails s
