@@ -40,7 +40,7 @@ https://docs.google.com/spreadsheets/d/14wfD7Yvca9CuDNZB5ovGCy4H8B3I1omCoQhd1jIZ
 
 ER図
 -----------
-![original_app_ER-ER図 drawio ](https://user-images.githubusercontent.com/112834004/205658947-476083ce-d7d3-4086-9a02-51d8a2081dc1.png)
+![original_app_ER-ER図 drawio (1)](https://user-images.githubusercontent.com/112834004/205775303-6a6f03b0-1917-4d24-a39c-493909448494.png)
 
 
 画面遷移図
